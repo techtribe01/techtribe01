@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am an entrepreneur, currently working as a intern skillArion development as a  trainer and tech lead.<br>i am a AI engineer,good at prompting. <br>
+## About Me
+
+Early-stage builder at the intersection of code and entrepreneurship. I like taking ideas from “this might work” to working prototypes, fast.
+
+- Co-founding and building EdTech products at Skillarion Development.
+- Regularly participate in hackathons (including Smart India Hackathon) with a focus on shipping usable solutions, not just demos.
+- Comfortable owning the full cycle: problem discovery → rapid prototyping → iteration based on feedback.
+- Interested in EdTech, AI/ML, and hardware-software projects (Arduino, ESP32, BCI).
+
+Always up for collaborating on scrappy, high-impact projects and hackathons.
+.<br>i am a AI engineer,good at prompting. <br>
 
 
 ## 🌐 Socials:
