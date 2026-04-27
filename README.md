@@ -1,10 +1,29 @@
 # 💫 About Me:
-Early-stage builder at the intersection of code and entrepreneurship. I like taking ideas from “this might work” to working prototypes, fast.
-- Co-founding and building EdTech products at Skillarion Development.
-- Regularly participate in hackathons (including Smart India Hackathon) with a focus on shipping usable solutions, not just demos.
-- Comfortable owning the full cycle: problem discovery → rapid prototyping → iteration based on feedback.
-- Interested in EdTech, AI/ML, and hardware-software projects (Arduino, ESP32, BCI).
-Always up for collaborating on scrappy, high-impact projects and hackathons.
+Builder|Hackathon competitor|founder.
+I build things that matter — and I've already put them in front of people who run states.
+
+At the Amaravati Quantum Valley Hackathon, my team's Quantum ML system won runner-up
+and I shared the stage with Chief Minister N. Chandrababu Naidu, Union Minister Dr. Jitesh Sharma,
+and IT Minister Nara Lokesh. That wasn't a fluke — it was the result of shipping fast and going deep.
+
+Here's what I'm currently building:
+→ EyesTalk — a BCI communication device for paralysis patients using eye gestures + IR camera + 
+  MediaPipe. Built on a ₹50,000 budget. Recognized at Ratan Tata Innovation Hub (Confluence 2026).
+→ Skillarion Development — an EdTech startup where I co-build products used by real students.
+→ Infinite Stackers — my own initiative. 1,000+ students taught across Andhra Pradesh. 
+
+Hackathons aren't a hobby. They're how I stress-test ideas under pressure:
+🥇 1st Place — ImpactX Hackathon 2025 (MITS College)
+🥈 Runner-up — Amaravati Quantum Valley Hackathon (Quantum ML / Qiskit)
+🏅 Special Mention — VIBEAITHON 2025
+🏛️ Confluence: The Innovators Summit 2026 — Ratan Tata Innovation Hub
+
+I work across the full stack — and I mean the full stack:
+Brain signals → Arduino → ESP32 → Python → FastAPI → Next.js → deployed product.
+
+Graduating 2026. Not waiting until then to make an impact.
+
+If you're building something hard and real — let's talk.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarthammisetti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okeymanoj@gmail.com) 
 
